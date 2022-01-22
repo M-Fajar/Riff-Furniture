@@ -1,0 +1,18 @@
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+main {
+  background-image: linear-gradient(to right, #74777e, #5a6266, #454d4c, #343834, #252420);
+}
+
+/* Nav */
+nav {
+  /* background-color: #74777e; */
+  background-image: linear-gradient(to right, #74777e, #5a6266, #454d4c, #343834, #252420);
+}
+
+/* Footer */
+footer {
+  background-color: #f2f2f2;
+}

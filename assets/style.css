@@ -1,3 +1,16 @@
 *{
     font-family: 'Montserrat', sans-serif;
 }
+
+#about-company{
+    padding-top: 2em;
+}
+
+h2{
+    background-color: #f2f2f2;
+}
+
+p{
+    text-align: justify;
+  text-justify: inter-word;
+}
